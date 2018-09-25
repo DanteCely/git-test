@@ -1,2 +1,2 @@
-Soy un texto distinto | tengo colores
-Tengo cosas | Jajaja
+Soy un texto distinto | tengo colores | version 2
+Tengo cosas | Jajaja2
